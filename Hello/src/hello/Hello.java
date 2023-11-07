@@ -17,6 +17,8 @@ public class Hello {
         // TODO code application logic here
         System.out.println("Chào các bạn");
         System.out.println("Chào các bạn");
+               System.out.println("Chào các bạn");
+        System.out.println("Chào các bạn");
     }
     
 }
