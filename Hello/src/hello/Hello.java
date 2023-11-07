@@ -19,6 +19,11 @@ public class Hello {
         System.out.println("Chào các bạn");
                System.out.println("Chào các bạn");
         System.out.println("Chào các bạn");
+        
+                System.out.println("Chào các bạn");
+        System.out.println("Chào các bạn");
+               System.out.println("Chào các bạn");
+        System.out.println("Chào các bạn");
     }
     
 }
